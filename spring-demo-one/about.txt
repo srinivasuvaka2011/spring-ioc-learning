@@ -1,0 +1,1 @@
+this application explains how to create a simple spring application.
