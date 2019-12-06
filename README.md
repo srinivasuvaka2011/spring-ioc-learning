@@ -1,3 +1,3 @@
 # spring-ioc-learning
-demo-one
-demo-one-logging
+1.demo-one
+2. demo-one-logging
